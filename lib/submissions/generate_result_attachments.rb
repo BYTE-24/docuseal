@@ -10,7 +10,7 @@ module Submissions
                   'Helvetica'
                 end
 
-    SIGN_REASON = 'Signed by %<name>s with DocuSeal.co'
+    SIGN_REASON = 'Gesigneerd door %<name>s met BYTE24 Sign'
 
     RTL_REGEXP = TextUtils::RTL_REGEXP
 
